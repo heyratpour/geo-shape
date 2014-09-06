@@ -9,6 +9,9 @@
 #ifndef SHAPE_H
 #define	SHAPE_H
 
+#define PI 3.141592654
+#define MIN_ERR 1E-4
+
 class shape{
 public:
 	shape();

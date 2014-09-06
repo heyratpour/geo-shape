@@ -6,12 +6,10 @@
  * Created on January 28, 2013, 4:14 AM
  */
 
-#include "shape.h"
 #include <cmath>
-#define PI 3.141592654
-#define MIN_ERR 1E-4* Author: Marziye
-
 #include <stdio.h>
+
+#include <shape.h>
 
 using namespace std;
 

@@ -1,3 +1,9 @@
+build/*
+!build/.keep
+
+bin/*
+!bin/.keep
+
 cproject
 nbproject
 *.*~

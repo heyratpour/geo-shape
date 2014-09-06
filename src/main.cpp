@@ -5,13 +5,10 @@
  *
  * Created on January 28, 2013, 4:14 AM
  */
+#include <shape.h>
 
-#include "shape.cpp"
-
-#include "stdio.h"
-#include "stdlib.h"
-
-int main(){
+int main()
+{
 	square sq(16);
 	rectangle rc(10, 12);
 	rhombus rh(5, 10);
